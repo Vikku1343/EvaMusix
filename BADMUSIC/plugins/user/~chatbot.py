@@ -13,7 +13,7 @@ import config
 from BADMUSIC import app as shizuchat
 
 
-WORD_MONGO_URL = "mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/"
+WORD_MONGO_URL = "mongodb+srv://Vikku1343:Alina1343@vikku.ctnxydd.mongodb.net/"
 translator = GoogleTranslator()  
 chatdb = MongoClient(MONGO_URL)
 worddb = MongoClient(WORD_MONGO_URL)
