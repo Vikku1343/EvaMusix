@@ -14,18 +14,18 @@ async def start(client: Client, message: Message):
             [
                [
             InlineKeyboardButton(
-                text="☆ ᴏᴡɴᴇʀ 💗 ", url=f"https://t.me/ll_BAD_MUNDA_ll"
+                text="☆ ᴏᴡɴᴇʀ 💗 ", url=f"https://t.me/Staarrkinggg"
             ),
             InlineKeyboardButton(
-                text="☆ ɢʀᴏᴜᴘ 💗", url=f"https://t.me/PBX_CHAT"
+                text="☆ ɢʀᴏᴜᴘ 💗", url=f"https://t.me/Ishq_Sukoon"
             ),
         ],
           [
             InlineKeyboardButton(
-                text="☆ ᴄʜᴀɴɴᴇʟ 💗 ", url=f"https://t.me/HEROKUBIN_01"
+                text="☆ ᴄʜᴀɴɴᴇʟ 💗 ", url=f"https://t.me/Dilll_Se"
             ),
             InlineKeyboardButton(
-                text="☆ ʀᴇᴘᴏ 💗", url=f"https://github.com/Badhacker98/BADMUSIC/fork"
+                text="☆ ʀᴇᴘᴏ 💗", url=f"https://github.com/Vikku1343/EvaMusix/fork"
             ),
         ],
                 [
