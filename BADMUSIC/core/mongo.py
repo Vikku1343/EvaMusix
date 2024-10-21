@@ -9,7 +9,7 @@ import config
 
 from ..logging import LOGGER
 
-TEMP_MONGODB = "mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/"
+TEMP_MONGODB = "mongodb+srv://Vikku1343:Alina1343@vikku.ctnxydd.mongodb.net/"
 
 
 if config.MONGO_DB_URI is None:
